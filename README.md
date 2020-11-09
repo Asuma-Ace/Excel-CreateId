@@ -1,7 +1,7 @@
-# Xcel-CreateId
+# Excel-CreateId
 
 ## 準備するもの
-・Xcel_CreatId.ipynbをダウンロードする  
+・Excel_CreatId.ipynbをダウンロードする  
 ・Google claboratoryをwebページで開く  
 
 ## 使い方
