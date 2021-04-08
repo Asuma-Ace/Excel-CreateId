@@ -21,5 +21,5 @@
 ## 実行結果
 #### Python  
 ![sample image1](sample1.png)
-#### Xcel
+#### Excel
 ![sample image2](sample2.png)
